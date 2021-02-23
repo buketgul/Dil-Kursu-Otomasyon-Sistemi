@@ -1,0 +1,285 @@
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\Visual Studio\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntuleme.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\DilKursuOtomasyon (2)\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon-1\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+C:\Users\bbuke\OneDrive\Masaüstü\CE\CE-3x2\Yazılım Mühendisliği\Proje\D-4\DilKursuOtomasyon-5\DilKursuOtomasyon - 3\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\Downloads\DilKursuOtomasyon_-_6\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe.config
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.exe
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\bin\Debug\DilKursuOtomasyon.pdb
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csprojAssemblyReference.cache
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Anasayfa.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersDetaylari.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersEkleSil.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersGoruntule.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.DersKaydi.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.GirisEkrani.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciDetaylari.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciEkleSil.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgrenciGoruntule.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenDetaylari.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenEkleSil.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.OgretmenGoruntule.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifEkle.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SinifGoruntule.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeDetaylari.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.HataMenusu.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.Properties.Resources.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeEkleSil.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.SubeGoruntule.resources
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.GenerateResource.cache
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.csproj.CoreCompileInputs.cache
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.exe
+D:\BuketinSonSurumu\DilKursuOtomasyon\DilKursuOtomasyon\obj\Debug\DilKursuOtomasyon.pdb

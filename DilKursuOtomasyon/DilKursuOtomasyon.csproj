@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23082E30-286F-401E-96CB-C2E8C46B4F13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DilKursuOtomasyon</RootNamespace>
+    <AssemblyName>DilKursuOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersDetaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersDetaylari.Designer.cs">
+      <DependentUpon>DersDetaylari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersEkleSil.Designer.cs">
+      <DependentUpon>DersEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersGoruntule.Designer.cs">
+      <DependentUpon>DersGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersKaydi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersKaydi.Designer.cs">
+      <DependentUpon>DersKaydi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisEkrani.Designer.cs">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciDetaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciDetaylari.Designer.cs">
+      <DependentUpon>OgrenciDetaylari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciEkleSil.Designer.cs">
+      <DependentUpon>OgrenciEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciGoruntule.Designer.cs">
+      <DependentUpon>OgrenciGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenDetaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenDetaylari.Designer.cs">
+      <DependentUpon>OgretmenDetaylari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenEkleSil.Designer.cs">
+      <DependentUpon>OgretmenEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenGoruntule.Designer.cs">
+      <DependentUpon>OgretmenGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinifEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinifEkle.Designer.cs">
+      <DependentUpon>SinifEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinifGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinifGoruntule.Designer.cs">
+      <DependentUpon>SinifGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubeDetaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubeDetaylari.Designer.cs">
+      <DependentUpon>SubeDetaylari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HataMenusu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HataMenusu.Designer.cs">
+      <DependentUpon>HataMenusu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SubeEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubeEkleSil.Designer.cs">
+      <DependentUpon>SubeEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubeGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubeGoruntule.Designer.cs">
+      <DependentUpon>SubeGoruntule.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersDetaylari.resx">
+      <DependentUpon>DersDetaylari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersEkleSil.resx">
+      <DependentUpon>DersEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersGoruntule.resx">
+      <DependentUpon>DersGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersKaydi.resx">
+      <DependentUpon>DersKaydi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisEkrani.resx">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciDetaylari.resx">
+      <DependentUpon>OgrenciDetaylari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciEkleSil.resx">
+      <DependentUpon>OgrenciEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciGoruntule.resx">
+      <DependentUpon>OgrenciGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenDetaylari.resx">
+      <DependentUpon>OgretmenDetaylari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenEkleSil.resx">
+      <DependentUpon>OgretmenEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenGoruntule.resx">
+      <DependentUpon>OgretmenGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SinifEkle.resx">
+      <DependentUpon>SinifEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SinifGoruntule.resx">
+      <DependentUpon>SinifGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubeDetaylari.resx">
+      <DependentUpon>SubeDetaylari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HataMenusu.resx">
+      <DependentUpon>HataMenusu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SubeEkleSil.resx">
+      <DependentUpon>SubeEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubeGoruntule.resx">
+      <DependentUpon>SubeGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
